@@ -36,7 +36,7 @@ Just to be sure you can increase `time.sleep(uniform())` between each action
 
 Also I save data, loading times, and resources because after every uploading I didn't find a way to exit the ""Uploaded"" screen without reloading entirely the pin builder page
 
-It might be possible to implement a publish method after an amount of time, a set of action, or called by the user in case you prefer to use ```.pin()``` method like me but I think I will do it only if someone really wishes for ti
+It might be possible to implement a publish method after an amount of time, a set of action, or called by the user in case you prefer to use ```.pin()``` method like me but I think I will do it only if someone really wishes for it
 
 # Note
 
