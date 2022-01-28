@@ -77,8 +77,8 @@ class bot:
             publish=False):
         """
         image: str, path to image
-        board: str
-        section: str (None if doesn't apply)
+        board: str, case sensitive
+        section: str (None if doesn't apply), case sensitive
         title: str
         description: str
         link: str
